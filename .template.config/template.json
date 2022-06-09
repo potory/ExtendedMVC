@@ -1,0 +1,14 @@
+{
+    "$schema": "https://json.schemastore.org/template",
+    "author": "arxate",
+    "classifications": ["Web", "Mvc", "WebApi", "EntityFramework"],
+    "identity": "arxate.mvc.extendedmvcwebapi",
+    "name": "Extended MVC and WebAPI",
+    "shortName": "extendedmvcwebapi",
+    "sourceName": "ExtendedMVC",
+    "tags": {
+        "language": "C#",
+        "type": "project" 
+    },
+    "preferNameDirectory": true
+}
